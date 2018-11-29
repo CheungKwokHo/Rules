@@ -16,6 +16,3 @@ log-level: info
 
 # clash 的 RESTful API
 external-controller: 127.0.0.1:8899
-
-# 绕过系统代理
-cfw-bypass:
