@@ -8475,8 +8475,8 @@
 
 
 # > AV
-- DOMAIN-SUFFIX,thisav.com
-- DOMAIN-SUFFIX,avgle.com
+- DOMAIN-SUFFIX,thisav.com,Own Proxy
+- DOMAIN-SUFFIX,avgle.com,Own Proxy
 
 # > Telegram
 - DOMAIN-SUFFIX,t.me,Own Proxy
